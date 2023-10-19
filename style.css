@@ -1,0 +1,14 @@
+p{
+    color:white;
+    text-align: justify;
+    font-size: 24px;
+}
+h1{
+    color:red;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+body{
+    background-color:black;
+}
